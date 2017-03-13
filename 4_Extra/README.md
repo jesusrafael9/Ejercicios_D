@@ -1,19 +1,16 @@
 # Extra
 
-En estos ultimos 5 años se han recibidos muchisimos avances tecnolgicos, en el ambito humano, 
+En estos últimos 5 años se han recibidos muchísimos avances tecnológicos, en el ámbito humano,
 
-Como : 
+Como:
 
 * Hogares inteligentes
 
-* Craciones de Drones.
+* Creaciones de Drones.
 
-* Protesis roboticas en el area de medicina
-
-Cuando hablamos de tecnologias orientadas a la web, me parece que javascript, ha sido un lenguaje que esta tomando poder cada dia, gracias a su versatilidad y portabilidad, tambien han surgido framework de frontend donde su lenguanje principal es javascript y estos facilitan el desarrollo de aplicaciones.
-
-Con la llegada de javascript del lado del servidor con nodejs , ahora es mas fuerte todavia, por que se manejaria el mismo lenguanje en las dos instancias Backend y Fronted. sin hablar, que tambien salio Javascript para Arduinos. (para el manejo del hardware libre).
+* Prótesis robóticas en el área de medicina
 
 
+Cuando hablamos de tecnologías orientadas a la web, me parece que JavaScript, ha sido un lenguaje que está tomando poder cada día, gracias a su versatilidad y portabilidad, también han surgido framework de frontend donde su lenguaje principal es JavaScript y estos facilitan el desarrollo de aplicaciones.
 
-
+Con la llegada de JavaScript del lado del servidor con nodejs , ahora es más fuerte todavía, por que se manejaría el mismo lenguaje en las dos instancias Backend y Fronted. sin hablar, que también salió JavaScript para Arduinos. (Para el manejo del hardware libre).
