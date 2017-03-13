@@ -1,9 +1,9 @@
-###Preguntas
+#Preguntas
 
-#1) Supone que en un repositorio GIT hiciste un commit y te olvidaste un archivo.Explicar como se soluciona si hiciste push, y como si aun no hiciste. De ser posible, buscar que quede solo un commit con los cambios.
+###1) Supone que en un repositorio GIT hiciste un commit y te olvidaste un archivo.Explicar como se soluciona si hiciste push, y como si aun no hiciste. De ser posible, buscar que quede solo un commit con los cambios.
 
 
-#2) Tenes un sitio en tu computadora de desarrollo, y cuando entras desde el navegador, en la consola te aparece esto:
+###2) Tenes un sitio en tu computadora de desarrollo, y cuando entras desde el navegador, en la consola te aparece esto:
 
 ```bash
 
@@ -114,9 +114,9 @@ Solucion 2 : (en caso de estar en chrome)
 Chrome from the terminal: Chrome --ignore-certificate-errors
 
 
-#3) Tenes un archivo comiteado en un repositorio GIT que deseas que quede ignorado. Que pasos debes realizar?
+###3) Tenes un archivo comiteado en un repositorio GIT que deseas que quede ignorado. Que pasos debes realizar?
 
-1- editar o crear el archivo .gitignore , alli se agrega el nombre del archivo a ser ignorado
-2- git rm --cached archivoaignorar.txt (Eliminar el archivo en repo)
+*1- editar o crear el archivo .gitignore , alli se agrega el nombre del archivo a ser ignorado
+*2- git rm --cached archivoaignorar.txt (Eliminar el archivo en repo)
 
-#4) Explica las ventajas de cargar en tu sitio las librerias de terceros por GTM.
+###4) Explica las ventajas de cargar en tu sitio las librerias de terceros por GTM.
