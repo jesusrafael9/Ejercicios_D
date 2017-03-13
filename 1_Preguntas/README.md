@@ -5,13 +5,24 @@
 
 Con push: 
 
+Deshacer el push en el repo remoto
 
 ```bash
 
-git reset ruta [nombre del archivo]
+git push origin HEAD --force
 
 
 ```
+
+Deshacer el commit en el repo local 
+
+```bash
+
+git reset --soft HEAD~1
+
+
+```
+
 
 Sin Push: 
 
