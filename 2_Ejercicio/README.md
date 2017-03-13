@@ -27,7 +27,7 @@ phpunit --version
 ###Clonar el repositorio. 
 
 ```bash
-git clone https://github.com/jesusrafael9/test_jesus.git
+git clone https://github.com/jesusrafael9/Ejercicios_D.git
 
 ```
 
