@@ -1,6 +1,30 @@
 #Preguntas
 
-###1) Supone que en un repositorio GIT hiciste un commit y te olvidaste un archivo.Explicar como se soluciona si hiciste push, y como si aun no hiciste. De ser posible, buscar que quede solo un commit con los cambios.
+###1) Supone que en un repositorio GIT hiciste un commit y te olvidaste un archivo. Explicar como se soluciona si hiciste push, y como si aun no hiciste. De ser posible, buscar que quede solo un commit con los cambios.
+
+
+Con push: 
+
+
+```bash
+
+git reset ruta [nombre del archivo]
+
+
+```
+
+Sin Push: 
+
+Ejemplo:  
+
+```bash
+
+git commit -m 'Comentarios'
+git add archivo
+git commit --amend
+
+```
+
 
 
 ###2) Tenes un sitio en tu computadora de desarrollo, y cuando entras desde el navegador, en la consola te aparece esto:
@@ -148,7 +172,7 @@ Aqui menciono algunas de las ventajas que permiten tener estas librerias GTM:
 
 
 
-Links relations
+###Links relations
 
 GTM Google:
 
