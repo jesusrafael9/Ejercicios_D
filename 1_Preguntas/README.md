@@ -110,13 +110,52 @@ Luego importarlo en el navegador el certificado csr.
 
 
 
-Solucion 2 : (en caso de estar en chrome) 
-Chrome from the terminal: Chrome --ignore-certificate-errors
+Solucion 2 : (en caso de estar en chrome)
+
+Chrome from the terminal: 
+
+Chrome --ignore-certificate-errors
 
 
 ###3) Tenes un archivo comiteado en un repositorio GIT que deseas que quede ignorado. Que pasos debes realizar?
 
 *1- editar o crear el archivo .gitignore , alli se agrega el nombre del archivo a ser ignorado
+
 *2- git rm --cached archivoaignorar.txt (Eliminar el archivo en repo)
 
+
 ###4) Explica las ventajas de cargar en tu sitio las librerias de terceros por GTM.
+
+Aqui menciono algunas de las ventajas que permiten tener estas librerias GTM:
+
+
+*	Es gratuito : no implica ningun costo en inversion.
+
+
+*	Rápido de usar: Por la gran documentacion que hay, el manejo de las herramientas lo hacen  fácil.
+
+
+*	Totalmente integrado con Google Analytics y Google Adwords: por ser productos de google existe una integridad con todas las paqueterias
+
+
+*	Sistema de testeo en vivo.
+
+
+*	Creación de lógicas de análisis más rápida y sin intervención de los departamentos IT: Más independencia. 
+
+
+*	Una gran comunidad que aporta conocimiento sobre la herramienta.
+
+
+
+Links relations
+
+GTM Google:
+
+http://analyticstagmanager.com/ventajas-y-desventajas-de-google-tag-manager/
+
+SSL Certificados:
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-apache-for-debian-8
+
+https://www.linode.com/docs/security/ssl/ssl-apache2-debian-ubuntu
