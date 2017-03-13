@@ -17,8 +17,7 @@ Programs                | Version
  Git 					| 2.x
 
 
- ###Test php unit
-Ver la version de phpunit
+ ###Ver la version de phpunit
 ```bash
 phpunit --version
 
@@ -31,7 +30,7 @@ git clone https://github.com/jesusrafael9/Ejercicios_D.git
 
 ```
 
-###Pocisionar en el directorio de la app
+###Posicionar en el directorio de la app
 
 ```bash
 cd 2_Ejercicio/
@@ -44,10 +43,10 @@ cd 2_Ejercicio/
 phpunit
 
 ```
-En la ejecucion phpunit utiliza el archivo phpunit.xml, para la carga de las clases a testear.
+En la ejecución phpunit utiliza el archivo phpunit.xml, para la carga de las clases a testear.
 
 
-###Función implementada para la escalera poker.
+###Función implementada para la escalera poker en la clase PokerTest.php. Ruta: PHPunit/Test/PokerTest.php
 
 ```sh
 
